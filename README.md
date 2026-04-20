@@ -1,2 +1,2 @@
 # Exploring-Linux
-Exploring What Linus Actually is ?
+Exploring What Linux Actually is ?
